@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Data name='Akbar' age='35' />
-      <ClassComp value='this is value of class based function from prop'/>
+      <ClassComp value='this is the value of class based function from props'/>
     </div>
   );
 }
