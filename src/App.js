@@ -11,7 +11,7 @@ function App() {
       <Data name='Akbar' age='35' />
       <ClassComp value='this is the value of class based function from props'/>
       <StateDemo value = "this is from state and props"/>
-      <DestructuringClassComp value="this is the data from class prop destructuring" />
+      <DestructuringClassComp value="this is the data from class props destructuring" />
     </div>
   );
 }
